@@ -74,16 +74,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Natthaphum-sa
-&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Natthaphum-sa
-&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Natthaphum-sa&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Natthaphum-sa&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 <br/><br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natthaphum-sa
-&theme=react-dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natthaphum-sa&theme=react-dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 
